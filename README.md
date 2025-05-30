@@ -2,7 +2,8 @@ I am Helen Soremekun a Data Scientist with proven experience, knowledge and skil
 I’m interested in analyzing data set to derive actionable insights and presentation of data insight with clear data visualization tools to stakeholders.
 I’m looking to collaborate on big data projects, working challenging data sets for deriving insights that solve real-world problems. 
 
-You can view my most recent projects here on my [portfolio](https://helen-oy.github.io/portfolio/) 
+You can view my most recent projects here on my [portfolio](https://helen-oy.github.io/portfolio/).
+
 How to reach me soremekunhelen@gmail.com
 
 <!---
