@@ -4,9 +4,9 @@ I’m looking to collaborate on big data projects, working challenging data sets
 
 You can view my most recent projects here on my [portfolio](https://helen-oy.github.io/portfolio/) 
 How to reach me soremekunhelen@gmail.com
-![Analytics](/Users/helen/Desktop/Self_development/portfolio/imgfolder/backgroundphoto.jpeg)
 
 <!---
+![Analytics](/Users/helen/Desktop/Self_development/portfolio/imgfolder/backgroundphoto.jpeg)
 
 helen-oy/helen-oy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
